@@ -21,12 +21,6 @@
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 
-<!-- Puedes agregar más badges según tus necesidades -->
-
----
-
-¡No dudes en personalizar este README a medida que adquieras nuevas habilidades o realices nuevos proyectos!
-
 
 
 
